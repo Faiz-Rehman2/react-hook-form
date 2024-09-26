@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.navbar_custom_color{
+color: rgb(31 41 55);
+}
